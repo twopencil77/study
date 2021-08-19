@@ -22,3 +22,5 @@ except KeyboardInterrupt:
 	pass
 	
 GPIO.cleanup()
+
+print(type(LED))
