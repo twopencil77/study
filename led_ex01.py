@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# 테스트입니다.
 
 import RPi.GPIO as GPIO
 import time
